@@ -1,0 +1,290 @@
+2023-01-20 15:11:23,570  INFO [main] BaseClass:20 -  Initialization Browser
+2023-01-20 15:11:23,573  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 15:11:26,616  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 15:11:26,617  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 15:11:28,286  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 15:11:28,429  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 15:11:28,482  INFO [main] BaseClass:29 - Closing the Browser
+2023-01-20 15:11:47,349  INFO [main] BaseClass:32 - Browser Closed
+2023-01-20 19:05:50,633  INFO [main] BaseClass:24 -  Initialization Browser
+2023-01-20 19:05:50,636  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:05:53,430  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:05:53,431  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:05:55,387  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:05:55,527  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:05:55,555  INFO [main] BaseClass:26 - Load a LoginPage
+2023-01-20 19:05:55,668  INFO [main] BaseClass:45 - verifyTheLogingWithValidCredentials
+2023-01-20 19:05:55,855  INFO [main] BaseClass:36 - Closing the Browser
+2023-01-20 19:06:14,741  INFO [main] BaseClass:39 - Browser Closed
+2023-01-20 19:06:58,756  INFO [main] BaseClass:23 -  Initialization Browser
+2023-01-20 19:06:58,758  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:07:01,053  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:07:01,054  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:07:03,766  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:07:03,957  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:07:03,984  INFO [main] BaseClass:25 - Load a LoginPage
+2023-01-20 19:07:04,095  INFO [main] BaseClass:44 - verifyTheLogingWithValidCredentials
+2023-01-20 19:07:04,266  INFO [main] BaseClass:35 - Closing the Browser
+2023-01-20 19:07:07,006  INFO [main] BaseClass:38 - Browser Closed
+2023-01-20 19:09:49,675  INFO [main] BaseClass:23 -  Initialization Browser
+2023-01-20 19:09:49,678  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:09:52,082  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:09:52,083  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:09:55,642  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:09:55,823  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:09:55,851  INFO [main] BaseClass:25 - Load a LoginPage
+2023-01-20 19:09:55,956  INFO [main] BaseClass:44 - verifyTheLogingWithValidCredentials
+2023-01-20 19:09:56,130  INFO [main] BaseClass:35 - Closing the Browser
+2023-01-20 19:10:15,023  INFO [main] BaseClass:38 - Browser Closed
+2023-01-20 19:13:11,032  INFO [main] BaseClass:23 -  Initialization Browser
+2023-01-20 19:13:11,035  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:13:13,308  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:13:13,308  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:13:15,421  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:13:15,573  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:13:15,599  INFO [main] BaseClass:25 - Load a LoginPage
+2023-01-20 19:13:15,704  INFO [main] BaseClass:44 - verifyTheLogingWithValidCredentials
+2023-01-20 19:13:22,657  INFO [main] BaseClass:38 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 19:13:22,657  INFO [main] BaseClass:41 - Expected Title of Page :- Your store. Login
+2023-01-20 19:13:22,658  INFO [main] BaseClass:51 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 19:13:22,850  INFO [main] BaseClass:35 - Closing the Browser
+2023-01-20 19:13:41,757  INFO [main] BaseClass:38 - Browser Closed
+2023-01-20 19:20:46,103  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:20:46,106  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:20:48,420  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:20:48,421  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:20:51,401  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:20:51,542  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:20:51,570  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:20:52,187  INFO [main] BaseClass:69 - Actual Title of Page :- Your store. Login
+2023-01-20 19:20:52,187  INFO [main] BaseClass:72 - Expected Title of Page from Excel :- Title
+2023-01-20 19:20:52,187  INFO [main] BaseClass:82 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 19:28:10,905  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:28:10,910  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:28:13,546  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:28:13,546  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:28:15,345  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:28:15,496  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:28:15,525  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:28:15,705  INFO [main] BaseClass:47 - verifyTheLogingWithValidCredentials
+2023-01-20 19:28:24,571  INFO [main] BaseClass:35 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 19:28:24,571  INFO [main] BaseClass:38 - Expected Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 19:28:24,571  INFO [main] BaseClass:42 - Actual Title is Match with Expected Title
+2023-01-20 19:28:24,574  INFO [main] BaseClass:49 - Logout To Application
+2023-01-20 19:28:26,350  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 19:28:26,351  INFO [main] BaseClass:38 - Closing the Browser
+2023-01-20 19:28:29,096  INFO [main] BaseClass:41 - Browser Closed
+2023-01-20 19:28:30,394  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:28:30,395  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:28:31,711  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:28:31,711  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:28:33,893  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:28:34,039  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:28:34,065  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:36:18,990  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:36:18,993  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:36:21,233  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:36:21,234  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:36:23,286  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:36:23,426  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:36:23,453  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:36:23,524  INFO [main] BaseClass:47 - verifyTheLogingWithValidCredentials
+2023-01-20 19:36:29,850  INFO [main] BaseClass:35 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 19:36:29,850  INFO [main] BaseClass:38 - Expected Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 19:36:29,850  INFO [main] BaseClass:42 - Actual Title is Match with Expected Title
+2023-01-20 19:36:29,853  INFO [main] BaseClass:49 - Logout To Application
+2023-01-20 19:36:31,495  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 19:36:31,495  INFO [main] BaseClass:38 - Closing the Browser
+2023-01-20 19:36:34,226  INFO [main] BaseClass:41 - Browser Closed
+2023-01-20 19:40:38,386  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:40:38,389  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:40:40,667  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:40:40,668  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:40:42,917  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:40:43,062  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:40:43,092  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:40:43,160  INFO [main] BaseClass:47 - verifyTheLogingWithValidCredentials
+2023-01-20 19:40:51,800  INFO [main] BaseClass:35 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 19:40:51,800  INFO [main] BaseClass:38 - Expected Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 19:40:51,800  INFO [main] BaseClass:42 - Actual Title is Match with Expected Title
+2023-01-20 19:40:51,803  INFO [main] BaseClass:49 - Logout To Application
+2023-01-20 19:40:54,083  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 19:40:54,084  INFO [main] BaseClass:38 - Closing the Browser
+2023-01-20 19:40:56,833  INFO [main] BaseClass:41 - Browser Closed
+2023-01-20 19:40:57,954  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:40:57,956  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:40:59,246  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:40:59,247  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:41:02,285  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:41:02,427  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:41:02,457  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:43:16,251  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:43:16,259  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:43:18,499  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:43:18,499  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:43:20,600  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:43:20,741  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:43:20,770  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:44:09,050  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 19:44:09,050  INFO [main] BaseClass:38 - Closing the Browser
+2023-01-20 19:44:27,930  INFO [main] BaseClass:41 - Browser Closed
+2023-01-20 19:44:27,931  INFO [main] BaseClass:26 -  Initialization Browser
+2023-01-20 19:44:27,932  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 19:44:29,269  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 19:44:29,269  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 19:44:31,345  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 19:44:31,499  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 19:44:31,527  INFO [main] BaseClass:28 - Load a LoginPage
+2023-01-20 19:44:33,596  INFO [main] BaseClass:69 - Actual Title of Page :- Your store. Login
+2023-01-20 19:44:33,596  INFO [main] BaseClass:72 - Expected Title of Page from Excel :- Dashboard / nopCommerce administration
+2023-01-20 19:44:33,597  INFO [main] BaseClass:82 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 21:52:29,635  INFO [main] BaseClass:24 -  Initialization Browser
+2023-01-20 21:52:29,639  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 21:52:32,327  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 21:52:32,327  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 21:52:34,349  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 21:52:34,495  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 21:52:34,524  INFO [main] BaseClass:26 - Load a LoginPage
+2023-01-20 21:52:38,903  INFO [main] BaseClass:55 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 21:52:38,903  INFO [main] BaseClass:58 - Expected Title of Page from Excel :- Dashboard / nopCommerce administration
+2023-01-20 21:52:38,904  INFO [main] BaseClass:62 - Actual Title is Match with Expected Title
+2023-01-20 21:52:40,989  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 21:52:41,002  INFO [main] BaseClass:36 - Closing the Browser
+2023-01-20 21:52:43,778  INFO [main] BaseClass:39 - Browser Closed
+2023-01-20 21:52:43,783  INFO [main] BaseClass:24 -  Initialization Browser
+2023-01-20 21:52:43,784  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 21:52:45,261  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 21:52:45,263  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 21:52:46,158  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 21:52:46,303  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 21:52:46,332  INFO [main] BaseClass:26 - Load a LoginPage
+2023-01-20 21:52:48,104  INFO [main] BaseClass:55 - Actual Title of Page :- Your store. Login
+2023-01-20 21:52:48,104  INFO [main] BaseClass:58 - Expected Title of Page from Excel :- Dashboard / nopCommerce administration
+2023-01-20 21:52:48,105  INFO [main] BaseClass:68 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 21:52:48,272  INFO [main] BaseClass:36 - Closing the Browser
+2023-01-20 21:53:07,172  INFO [main] BaseClass:39 - Browser Closed
+2023-01-20 21:53:07,175  INFO [main] BaseClass:24 -  Initialization Browser
+2023-01-20 21:53:07,175  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 21:53:08,523  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 21:53:08,523  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 21:53:09,407  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 21:53:09,567  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 21:53:09,598  INFO [main] BaseClass:26 - Load a LoginPage
+2023-01-20 21:53:10,106  INFO [main] BaseClass:55 - Actual Title of Page :- Your store. Login
+2023-01-20 21:53:10,107  INFO [main] BaseClass:58 - Expected Title of Page from Excel :- 
+2023-01-20 21:53:10,107  INFO [main] BaseClass:68 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 21:53:10,230  INFO [main] BaseClass:36 - Closing the Browser
+2023-01-20 21:53:29,128  INFO [main] BaseClass:39 - Browser Closed
+2023-01-20 21:53:29,131  INFO [main] BaseClass:24 -  Initialization Browser
+2023-01-20 21:53:29,132  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 21:53:30,575  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 21:53:30,576  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 21:53:31,577  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 21:53:31,717  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 21:53:31,747  INFO [main] BaseClass:26 - Load a LoginPage
+2023-01-20 21:53:32,213  INFO [main] BaseClass:55 - Actual Title of Page :- Your store. Login
+2023-01-20 21:53:32,214  INFO [main] BaseClass:58 - Expected Title of Page from Excel :- 
+2023-01-20 21:53:32,214  INFO [main] BaseClass:68 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 21:53:32,350  INFO [main] BaseClass:36 - Closing the Browser
+2023-01-20 21:53:35,091  INFO [main] BaseClass:39 - Browser Closed
+2023-01-20 22:01:21,662  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-20 22:01:21,670  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 22:01:24,169  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 22:01:24,169  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 22:01:26,256  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 22:01:26,397  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 22:01:26,427  INFO [main] BaseClass:27 - Load a LoginPage
+2023-01-20 22:02:48,212  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-20 22:02:48,215  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 22:02:50,616  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 22:02:50,616  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 22:02:53,302  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 22:02:53,447  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 22:02:53,476  INFO [main] BaseClass:27 - Load a LoginPage
+2023-01-20 22:02:53,542  INFO [main] BaseClass:46 - verifyTheLogingWithValidCredentials
+2023-01-20 22:03:00,343  INFO [main] BaseClass:35 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 22:03:00,344  INFO [main] BaseClass:38 - Expected Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 22:03:00,344  INFO [main] BaseClass:42 - Actual Title is Match with Expected Title
+2023-01-20 22:03:00,347  INFO [main] BaseClass:48 - Logout To Application
+2023-01-20 22:03:03,229  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 22:03:03,241  INFO [main] BaseClass:37 - Closing the Browser
+2023-01-20 22:03:22,270  INFO [main] BaseClass:40 - Browser Closed
+2023-01-20 22:07:54,785  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-20 22:07:54,790  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 22:07:57,156  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 22:07:57,157  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 22:08:00,073  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 22:08:00,214  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 22:08:00,242  INFO [main] BaseClass:27 - Load a LoginPage
+2023-01-20 22:08:07,515  INFO [main] BaseClass:56 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 22:08:07,515  INFO [main] BaseClass:59 - Expected Title of Page from Excel :- Dashboard / nopCommerce administration
+2023-01-20 22:08:07,516  INFO [main] BaseClass:63 - Actual Title is Match with Expected Title
+2023-01-20 22:08:10,390  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 22:08:10,398  INFO [main] BaseClass:37 - Closing the Browser
+2023-01-20 22:08:13,172  INFO [main] BaseClass:40 - Browser Closed
+2023-01-20 22:08:13,175  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-20 22:08:13,175  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 22:08:14,513  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 22:08:14,515  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 22:08:16,280  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 22:08:16,413  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 22:08:16,444  INFO [main] BaseClass:27 - Load a LoginPage
+2023-01-20 22:08:18,175  INFO [main] BaseClass:56 - Actual Title of Page :- Your store. Login
+2023-01-20 22:08:18,175  INFO [main] BaseClass:59 - Expected Title of Page from Excel :- Dashboard / nopCommerce administration
+2023-01-20 22:08:18,175  INFO [main] BaseClass:69 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 22:08:18,341  INFO [main] BaseClass:37 - Closing the Browser
+2023-01-20 22:08:37,217  INFO [main] BaseClass:40 - Browser Closed
+2023-01-20 22:08:37,220  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-20 22:08:37,221  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 22:08:38,443  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 22:08:38,443  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 22:08:40,318  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 22:08:40,457  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 22:08:40,484  INFO [main] BaseClass:27 - Load a LoginPage
+2023-01-20 22:08:42,379  INFO [main] BaseClass:56 - Actual Title of Page :- Your store. Login
+2023-01-20 22:08:42,380  INFO [main] BaseClass:59 - Expected Title of Page from Excel :- Dashboard / nopCommerce administration
+2023-01-20 22:08:42,381  INFO [main] BaseClass:69 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 22:08:42,530  INFO [main] BaseClass:37 - Closing the Browser
+2023-01-20 22:09:01,408  INFO [main] BaseClass:40 - Browser Closed
+2023-01-20 22:09:01,410  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-20 22:09:01,410  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 22:09:02,790  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 22:09:02,790  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 22:09:15,224  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 22:09:15,367  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 22:09:15,394  INFO [main] BaseClass:27 - Load a LoginPage
+2023-01-20 22:09:15,878  INFO [main] BaseClass:56 - Actual Title of Page :- Your store. Login
+2023-01-20 22:09:15,879  INFO [main] BaseClass:59 - Expected Title of Page from Excel :- Dashboard / nopCommerce administration
+2023-01-20 22:09:15,879  INFO [main] BaseClass:69 - Actual Title is not Match with Expected Title there fore our Test Case is fail
+2023-01-20 22:09:15,996  INFO [main] BaseClass:37 - Closing the Browser
+2023-01-20 22:09:18,707  INFO [main] BaseClass:40 - Browser Closed
+2023-01-20 22:09:18,714  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-20 22:09:18,714  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-01-20 22:09:20,016  INFO [main] BaseClass:41 - Opening Browser as found in file
+2023-01-20 22:09:20,017  INFO [main] BaseClass:42 - User Launching Chrome Browser
+2023-01-20 22:09:22,470  INFO [main] BaseClass:23 - ::::Maximizing Window::::
+2023-01-20 22:09:22,608  INFO [main] BaseClass:26 - :::::Applying Waits::::
+2023-01-20 22:09:22,639  INFO [main] BaseClass:27 - Load a LoginPage
+2023-01-20 22:09:22,640  INFO [main] BaseClass:46 - verifyTheLogingWithValidCredentials
+2023-01-20 22:09:35,055  INFO [main] BaseClass:35 - Actual Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 22:09:35,055  INFO [main] BaseClass:38 - Expected Title of Page :- Dashboard / nopCommerce administration
+2023-01-20 22:09:35,055  INFO [main] BaseClass:42 - Actual Title is Match with Expected Title
+2023-01-20 22:09:35,055  INFO [main] BaseClass:48 - Logout To Application
+2023-01-20 22:09:37,900  INFO [main] BaseClass:90 - Title of the page after Log Out :- Your store. Login
+2023-01-20 22:09:37,902  INFO [main] BaseClass:37 - Closing the Browser
+2023-01-20 22:09:40,610  INFO [main] BaseClass:40 - Browser Closed
+2023-01-25 17:30:01,930  INFO [main] BaseClass:25 -  Initialization Browser
+2023-01-25 17:30:01,934  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-08-19 23:15:02,542  INFO [main] BaseClass:19 -  Initialization Browser
+2023-08-19 23:15:02,545  INFO [main] BaseClass:34 - Reading a property file for a browser name
+2023-08-19 23:20:08,830  INFO [main] BaseClass:19 -  Initialization Browser
+2023-08-19 23:20:08,832  INFO [main] BaseClass:36 - Reading a property file for a browser name
+2023-08-19 23:21:46,240  INFO [main] BaseClass:43 - Opening Browser as found in file
+2023-08-19 23:21:46,240  INFO [main] BaseClass:44 - User Launching Chrome Browser
+2023-08-19 23:21:48,490  INFO [main] BaseClass:25 - ::::Maximizing Window::::
+2023-08-19 23:21:48,684  INFO [main] BaseClass:28 - :::::Applying Waits::::
+2023-08-19 23:21:48,708  INFO [main] BaseClass:21 - Load a LoginPage
+2023-08-19 23:21:48,808  INFO [main] BaseClass:40 - verifyTheLogingWithValidCredentials
+2023-08-19 23:21:48,811  INFO [main] BaseClass:42 - Logout To Application
+2023-08-19 23:23:29,007  INFO [main] BaseClass:31 - Closing the Browser
+2023-08-19 23:23:31,449  INFO [main] BaseClass:34 - Browser Closed
